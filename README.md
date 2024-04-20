@@ -1,2 +1,2 @@
 # prework-study-guide
-A preworkm study guide available for future reference
+A prework study guide available for future reference
